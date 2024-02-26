@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Edgar Javier Aguirre 👋
 
-<!--
-**elgarcito/elgarcito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 📌
 
-Here are some ideas to get you started:
+I'm an electromechanical engineer with 3 years of experience in industrial processes and quality assurance. Since 2021, I have been studying different tools and programming languages as a self-taught person to start a career in the IT sector. I'm looking for a job in which, using my degree background to solve different problems, I could develop my programming skills to become a test automation engineer. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Knowledge 🎓
+
+### Test Automation University Applitools (October 2023-Present) 🎯
+- Java Web UI Path
+- Java API Path
+- Java Mobile Path
+These paths include courses with practical exercises of Selenium WebDriver, TestNG, Appium, and Postman.
+
+### Platzi Courses 📚
+- Basic and Intermediate Java (OOP, lambda functions, exceptions, interfaces, collections, reflection, JDBC)
+- Maven
+- myBatis
+- Git and Github
+
+### Database Courses 💾
+- MySQL
+- PostgreSQL
+
+### Other Skills 🛠️
+- Carina Framework
+- Agile frameworks (Scrum and Kanban)
