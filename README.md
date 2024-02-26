@@ -12,7 +12,7 @@ I'm an electromechanical engineer with 3 years of experience in industrial proce
 - Java Mobile Path
 These paths include courses with practical exercises of Selenium WebDriver, TestNG, Appium, and Postman.
 
-### Platzi Courses 📚 December 2021-Present)
+### Platzi Courses 📚 (December 2021-Present)
 - Basic and Intermediate Java (OOP, lambda functions, exceptions, interfaces, collections, reflection, JDBC)
 - Maven
 - myBatis
@@ -26,5 +26,5 @@ These paths include courses with practical exercises of Selenium WebDriver, Test
 - Agile frameworks (Scrum and Kanban)
 - Carina Framework
 
-### Other Skills 🛠️
+### Other Skills 🛠️ (2015-2021)
 - Bachelor's degree in Electromechanical Engineering from UNICEN University
