@@ -14,9 +14,11 @@ These paths include courses with practical exercises of Selenium WebDriver, Test
 
 ### Platzi Courses 📚 (December 2021-Present)
 - Basic and Intermediate Java (OOP, lambda functions, exceptions, interfaces, collections, reflection, JDBC)
+- Basic and Intermediate JavaScript
 - Maven
 - myBatis
 - Git and Github
+- Cypress
 
 ### Database Courses 💾
 - MySQL
